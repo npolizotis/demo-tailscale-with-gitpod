@@ -6,7 +6,7 @@ Ever wondered how to configure [Tailscale](https://tailscale.com/) with [Gitpod]
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/demo-tailscale-with-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/npolizotis/demo-tailscale-with-gitpod)
 
 ## Recommended Reading
 
